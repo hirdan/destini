@@ -38,11 +38,11 @@ class StoryBrain {
     return _storyData[_storyNumber].storyTitle;
   }
 
-  String getChoice2() {
+  String getChoice1() {
     return _storyData[_storyNumber].choice1;
   }
 
-  String getChoice1() {
+  String getChoice2() {
     return _storyData[_storyNumber].choice2;
   }
 
